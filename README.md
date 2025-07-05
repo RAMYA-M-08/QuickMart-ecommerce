@@ -127,7 +127,7 @@ node server1.js
 2. Users must Sign up or Log in to explore the platform.
 3. Admins can access the admin panel at [http://localhost:7000/adminlogin.html](http://localhost:7000/adminlogin.html)
 
-    **Credentials for Admin login**
+     **Credentials for Admin login**
       - **Username -** `Admin#0x` **(where x is 1-9)**
       - **Password -** `Admin@0x` **(where x is 1-9)**
   
