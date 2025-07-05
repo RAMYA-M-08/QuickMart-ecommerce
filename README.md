@@ -104,9 +104,9 @@ To initialize and run the project, execute the following commands
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack
+git clone https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack.git
 ```
-**2. Install dependencies**
+**2. Navigate to the project folder and install dependencies**
 ``` bash
 npm install
 ```
