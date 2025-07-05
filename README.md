@@ -119,15 +119,18 @@ node adminserver.js
 ```bash
 node server1.js
 ```
-### **4. Run the server**
-- **User side**
-[localhost:5000/homepg.html](https://localhost:5000/homepg.html)
+---
 
-- **Admin side**
-[localhost:7000/login.html](https://localhost:7000/login.html)
+## 🔷 Usage
 
-**Credentials for Admin login**
-- **Username -** `Admin#0x` **(where x is 1-9)**
-- **Password -** `Admin@0x` **(where x is 1-9)**
+1. Open [http://localhost:5000/homepage.html](http://localhost:5000/homepage.html) in your browser
+2. Users must Sign up or Log in to explore the platform.
+3. Admins can access the admin panel at [http://localhost:7000/login.html](http://localhost:7000/login.html)
+
+    **Credentials for Admin login**
+      - **Username -** `Admin#0x` **(where x is 1-9)**
+      - **Password -** `Admin@0x` **(where x is 1-9)**
+  
+---
 
 
