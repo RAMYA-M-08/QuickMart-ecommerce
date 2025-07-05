@@ -65,7 +65,7 @@ QuickMart is a full-fledged eCommerce web application developed as part of a web
 
 ---
 
-## 🔷 Tech Stack
+## 🔷 Tech Stack Used
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **JavaScript Library**: jQuery  
@@ -77,7 +77,7 @@ QuickMart is a full-fledged eCommerce web application developed as part of a web
 
 ## 🔷 System Configuration
 
-To set up and run the system locally, please follow these steps:
+To set up and run the system locally, please follow these steps
 
 - Install **Node.js** on your machine.
 - Install **MongoDB** version 3.4 or above.
@@ -100,17 +100,18 @@ The following essential NPM package are required
 ---
 ## 🔷 Project Initialization
 
-To initialize and run the project, execute the following commands:
+To initialize and run the project, execute the following commands
 
-### **1. Clone the repository**
+**1. Clone the repository**
 ```bash
 git clone https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack
 ```
-### **2. Install dependencies**
+**2. Install dependencies**
 ``` bash
 npm install
 ```
-### **3. Start the server**
+**3. Start the server**
+
 **Admin Portal**
 ``` bash
 node adminserver.js
@@ -124,7 +125,7 @@ node server1.js
 ## 🔷 Usage
 
 1. Open [http://localhost:5000/homepage.html](http://localhost:5000/homepage.html) in your browser
-2. Users must Sign up or Log in to explore the platform.
+2. Users must Sign up or Log in to explore the platform
 3. Admins can access the admin panel at [http://localhost:7000/adminlogin.html](http://localhost:7000/adminlogin.html)
 
      **Credentials for Admin login**
