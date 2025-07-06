@@ -134,6 +134,8 @@ node server1.js
       - **Password -** `Admin@0x` **(where x must be the same as in the Username)**
 
 ---
+## 🔷 Screenshots
+### **Home Page**
 
 
 
