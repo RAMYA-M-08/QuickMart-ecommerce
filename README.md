@@ -136,7 +136,9 @@ node server1.js
 ---
 ## 🔷 Screenshots
 ### **Home Page**
+![Home Page](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/cc258484688d98bb2aef9442eceeb03a1144b77d/screenshots/homepage.png)
 
+### **User Sign up/Login
 
 
 
