@@ -142,6 +142,49 @@ node server1.js
 ![User sign up](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/59021e0501d5eedac7adbdf6888bba70a70464ac/screenshots/sign%20up.png)
 
 ### **Product Categories**
+![Product Categories](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/product_categories.png)
+
+### **Cart**
+![Cart](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/cart.png)
+
+### **Checkout**
+![Checkout](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/checkout.png)
+
+### **Payment**
+![Payment](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/payment.png)
+
+### **Order History**
+![Order History](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/user_orders.png)
+
+### **Admin Dashboard**
+![Admin Dashboard](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/admin_dashboard.png)
+
+### **Manage Orders**
+![Admin Orders](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/69a6e4c74c3c9f74bc068f2379f9726163f4c35b/screenshots/admin_orders.png)
+
+---
+## 🔷 Credits
+This project is a collaborative effort developed by a team of five members
+
+**Team Members**
+- [Ramya M](https://github.com/RAMYA-M-08)
+- [Sujaa Shri S](https://github.com/SujaaShri)
+- [Elakiya R](https://github.com/Elakiya-R31)
+- [Mugeshwaran E](https://github.com/mugeshwaran954)
+- [Thanusha E](https://github.com/Thanusha1974)
+
+---
+ ## 🔷 GitHub Repository
+ The source code for this project is hosted on GitHub:
+ 
+ [https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack)
+
+---
+⭐ If you like this project, give it a star
+
+
+
+
 
 
 
