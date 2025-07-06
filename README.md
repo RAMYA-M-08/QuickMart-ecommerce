@@ -1,4 +1,4 @@
-# 🛒QuickMart : Full-Stack E-Commerce Grocery Website
+# 🛒QuickMart - Full-Stack E-Commerce Grocery Website
 
 QuickMart is a dynamic and user-friendly online grocery shopping platform. It allows customers to explore products by category, manage their cart, proceed through a secure checkout and multi-mode payment process, and track their order history — all through a responsive and intuitive interface. An integrated admin portal empowers backend management of inventory and order delivery.
 
@@ -138,7 +138,10 @@ node server1.js
 ### **Home Page**
 ![Home Page](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/cc258484688d98bb2aef9442eceeb03a1144b77d/screenshots/homepage.png)
 
-### **User Sign up/Login
+### **User Sign Up / Log In**
+![User sign up](https://github.com/RAMYA-M-08/QuickMart-ecommerce-fullstack/blob/59021e0501d5eedac7adbdf6888bba70a70464ac/screenshots/sign%20up.png)
+
+### **Product Categories**
 
 
 
