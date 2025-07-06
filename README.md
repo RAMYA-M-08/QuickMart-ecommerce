@@ -32,6 +32,7 @@ QuickMart is a full-fledged eCommerce web application developed as part of a web
 4. **Checkout Page**
    - Collects delivery info: pincode and mobile number.
    - Validates:
+     - Name must start with upper case letter
      - Only Chennai pincodes.
      - 10-digit mobile numbers.
    - Proceeds to payment after successful validation.
@@ -130,8 +131,8 @@ node server1.js
 
      **Credentials for Admin login**
       - **Username -** `Admin#0x` **(where x is 1-9)**
-      - **Password -** `Admin@0x` **(where x is 1-9)**
-  
+      - **Password -** `Admin@0x` **(where x must be the same as in the Username)**
+
 ---
 
 
